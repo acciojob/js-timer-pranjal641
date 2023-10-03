@@ -1,4 +1,3 @@
-// write js code here if required
  function updateTimer() {
       // Get the current date and time
       var currentDate = new Date();
